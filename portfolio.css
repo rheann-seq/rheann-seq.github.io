@@ -184,6 +184,7 @@ a {
 .project1:hover,
 .project2:hover {
 	transform: translateY(-1em);
+	box-shadow: 0 4px 8px #8c84ee;
 }
 
 .intro-section {
@@ -193,9 +194,9 @@ a {
 .intro-box {
 	margin: auto;
 	/* background-color: #fff; */
-	background: #e3f4f5;
+	background: #faf8ff;
 	border-radius: 10px;
-	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 4px 8px #8c84ee;
 	width: 80%;
 	max-width: 600px;
 	padding: 20px;
@@ -230,7 +231,18 @@ a {
 .contact-section {
 	margin-top: 50px;
 	background: none;
+	padding: 2%;
+	text-align: justify;
 }
-.contact-section img {
-	width: 2rem;
+.contact-section a {
+	margin-right: 10px; /* Adds 10px space to the right of each anchor */
+}
+
+/* Optional: Remove the margin on the last anchor to avoid extra space */
+.contact-section a:last-child {
+	margin-right: 0;
+}
+footer {
+	text-align: center;
+	margin: auto;
 }
