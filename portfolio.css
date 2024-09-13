@@ -43,7 +43,7 @@ body {
 	z-index: 2;
 	--parallax-speed: 5;
 	padding: 3rem;
-	height: 100vh;
+	height: 80vh;
 }
 
 @keyframes parallax {
@@ -94,7 +94,7 @@ header a {
 
 @media screen and (max-width: 600px) {
 	.typewriter {
-		font-size: 1.5rem; /* Smaller font size for smaller screens */
+		font-size: 2rem; /* Smaller font size for smaller screens */
 	}
 
 	.projects-grid-container {
@@ -124,7 +124,7 @@ header a {
 	}
 }
 
-@media screen and (min-width: 901px) {
+@media screen and (min-width: 890px) and (max-width: 901px) {
 	.typewriter {
 		font-size: 2.5rem;
 		padding: 3rem;
@@ -202,7 +202,7 @@ header a {
 }
 .projects-grid-container {
 	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	/* grid-template-columns: repeat(2, 1fr); */
 	gap: 20px; /* Space between boxes */
 	padding: 20px;
 	max-width: 1200px;
