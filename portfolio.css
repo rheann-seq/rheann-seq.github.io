@@ -43,7 +43,7 @@ body {
 	z-index: 2;
 	--parallax-speed: 5;
 	padding: 3rem;
-	height: 595px;
+	height: 100vh;
 }
 
 @keyframes parallax {
@@ -55,6 +55,8 @@ header {
 	color: #f3ecff;
 	text-decoration: none;
 	align-items: center;
+	font-size: 1.25rem;
+	font-weight: 10;
 	/* position: fixed; */
 }
 header a {
@@ -317,4 +319,8 @@ footer {
 	text-align: center;
 	margin: auto;
 	color: #ada9bb;
+}
+
+footer > a:hover {
+	background-color: 0 4px 8px #8c84ee;
 }
