@@ -92,9 +92,10 @@ header a {
 	/* padding: 20px; */
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 565px) {
 	.typewriter {
-		font-size: 2rem; /* Smaller font size for smaller screens */
+		font-size: 1.5rem; /* Smaller font size for smaller screens */
+		padding: 3rem;
 	}
 
 	.projects-grid-container {
@@ -108,10 +109,10 @@ header a {
 	}
 }
 
-@media screen and (min-width: 601px) and (max-width: 890px) {
+@media screen and (min-width: 566) and (max-width: 675px) {
 	.typewriter {
-		font-size: 2.5rem; /* Medium font size for medium screens */
-		padding: 2rem;
+		font-size: 2rem; /* Medium font size for medium screens */
+		padding: 3rem;
 	}
 
 	.projects-grid-container {
@@ -124,7 +125,24 @@ header a {
 	}
 }
 
-@media screen and (min-width: 890px) and (max-width: 901px) {
+@media screen and (min-width: 676px) and (max-width: 889px) {
+	.typewriter {
+		font-size: 2.5rem; /* Medium font size for medium screens */
+		padding: 3rem;
+	}
+
+	.projects-grid-container {
+		grid-template-columns: repeat(2, 1fr); /* Two columns layout for medium screens */
+	}
+
+	.project1,
+	.project2 {
+		width: 80%; /* Adjusted width for medium screens */
+	}
+}
+
+@media screen and (min-width: 890px) {
+	/* and (max-width: 901px) { */
 	.typewriter {
 		font-size: 2.5rem;
 		padding: 3rem;
@@ -153,8 +171,8 @@ header a {
 
 .role {
 	text-align: left;
-	padding-left: 3rem;
-	/* padding: 3rem; */
+	/* padding-left: 3rem; */
+	padding: 3rem;
 	margin: 0 auto;
 	color: #f3ecff;
 	font-size: 2rem;
