@@ -39,11 +39,16 @@ body {
 	/* background-image: url("bg3.png"); */
 }
 
+.parallax_bg img {
+	max-height: fit-content;
+}
+
 .heading {
 	z-index: 2;
 	--parallax-speed: 5;
 	padding: 3rem;
 	height: 80vh;
+	/* max-height: 595px; */
 }
 
 @keyframes parallax {
@@ -211,13 +216,13 @@ header a {
 	background: #fff;
 	top: 0;
 	left: 22px;
-	margin-left: -3px;
+	margin-left: 3px;
 	z-index: -1;
 }
 .container {
 	padding: 10px 50px;
 	position: relative;
-	width: 50%;
+	width: 60%;
 	/* background: #32858b; */
 	animation: movedown 1s linear forwards;
 	opacity: 1;
@@ -248,6 +253,7 @@ header a {
 	border-radius: 6px;
 	font-size: 1rem;
 	line-height: 1.6;
+	box-shadow: 0 4px 8px #8c84ee;
 }
 
 /* body {
