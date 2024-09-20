@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.ce003f3f.css",
+    "main.js": "/react-gh-pages/static/js/main.5f0891ca.js",
+    "static/js/453.b21437c2.chunk.js": "/react-gh-pages/static/js/453.b21437c2.chunk.js",
+    "static/media/profile-img.png": "/react-gh-pages/static/media/profile-img.78658738593130d11004.png",
+    "static/media/github.png": "/react-gh-pages/static/media/github.641cc9817bfe10e5e038.png",
+    "static/media/CentraNo2-Bold.ttf": "/react-gh-pages/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/react-gh-pages/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/react-gh-pages/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/js.png": "/react-gh-pages/static/media/js.803672bf19e51726855d.png",
+    "static/media/Java-Logo.png": "/react-gh-pages/static/media/Java-Logo.6c1a3b5f7e2d535bff5b.png",
+    "static/media/sql.png": "/react-gh-pages/static/media/sql.1ce7c0d434518463291f.png",
+    "static/media/python.png": "/react-gh-pages/static/media/python.055a7fe50858f983a833.png",
+    "static/media/bookstore.png": "/react-gh-pages/static/media/bookstore.28ce0545772f88f8d539.png",
+    "static/media/blockchain.png": "/react-gh-pages/static/media/blockchain.90a4115fc5f02b2f311c.png",
+    "static/media/email.png": "/react-gh-pages/static/media/email.9d4fb065e6679439a9a3.png",
+    "static/media/revicons.eot": "/react-gh-pages/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-gh-pages/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-gh-pages/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/react-gh-pages/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/work.svg": "/react-gh-pages/static/media/work.3710b62484ed638074240e99317c6c60.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/nav-icon1.svg": "/react-gh-pages/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/react-gh-pages/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.ce003f3f.css.map": "/react-gh-pages/static/css/main.ce003f3f.css.map",
+    "main.5f0891ca.js.map": "/react-gh-pages/static/js/main.5f0891ca.js.map",
+    "453.b21437c2.chunk.js.map": "/react-gh-pages/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce003f3f.css",
+    "static/js/main.5f0891ca.js"
+  ]
+}
