@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f357491.css",
-    "main.js": "/static/js/main.70d28a43.js",
+    "main.css": "/static/css/main.6d2acf15.css",
+    "main.js": "/static/js/main.a61aa900.js",
     "static/js/453.298f5782.chunk.js": "/static/js/453.298f5782.chunk.js",
     "static/media/email.png": "/static/media/email.35d9a41341be74d11034.png",
     "static/media/profile-img.png": "/static/media/profile-img.78658738593130d11004.png",
@@ -10,6 +10,7 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/js.png": "/static/media/js.803672bf19e51726855d.png",
+    "static/media/dog-food.png": "/static/media/dog-food.4a8b70c5c28b6feed88f.png",
     "static/media/Java-Logo.png": "/static/media/Java-Logo.6c1a3b5f7e2d535bff5b.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/sql.png": "/static/media/sql.1ce7c0d434518463291f.png",
@@ -24,12 +25,12 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/index.html",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.3f357491.css.map": "/static/css/main.3f357491.css.map",
-    "main.70d28a43.js.map": "/static/js/main.70d28a43.js.map",
+    "main.6d2acf15.css.map": "/static/css/main.6d2acf15.css.map",
+    "main.a61aa900.js.map": "/static/js/main.a61aa900.js.map",
     "453.298f5782.chunk.js.map": "/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f357491.css",
-    "static/js/main.70d28a43.js"
+    "static/css/main.6d2acf15.css",
+    "static/js/main.a61aa900.js"
   ]
 }
