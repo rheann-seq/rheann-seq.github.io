@@ -390,10 +390,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .experienceSection h2 {
 	color: #fff !important;
 }
-
+.experienceSection li {
+	text-align: left;
+}
 .date {
 	font-size: 1rem;
-	color: #fff !important;
+	color: rgb(59, 180, 220) !important;
 	margin-bottom: 10px;
 }
 /* Contact */
